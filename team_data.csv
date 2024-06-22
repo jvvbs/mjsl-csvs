@@ -136,7 +136,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 151;10;Rapid City;Rush;RAP;19;40;-1;-1;-1;-1;-1;-1;#c4122e;#000000;#c8b362;1;1
 152;10;Allen;Americans;ALL;28;56;-1;-1;-1;-1;-1;-1;#be1a2c;#000000;#fefef4;1;1
 157;10;Tulsa;Oilers;TUL;30;62;-1;-1;-1;-1;-1;-1;#003263;#900028;#fefef4;1;1
-158;10;Wichita;Thunder;WIC;27;-1;-1;-1;-1;-1;-1;-1;#0065b8;#000000;#fefef4;1;1
+158;10;Wichita;Thunder;WIC;27;60;-1;-1;-1;-1;-1;-1;#0065b8;#000000;#fefef4;1;1
 165;32;Watertown;Wolves;WAT;-1;-1;-1;-1;-1;-1;-1;-1;#1a427d;#000000;#fefef4;-1;1
 167;33;Macon;Mayhem;MAC;-1;-1;-1;-1;-1;-1;-1;-1;#262262;#bf1e2e;#fefef4;-1;-1
 169;33;Fayetteville;Marksmen;FAY;-1;-1;-1;-1;-1;-1;-1;-1;#231f20;#c26435;#ded1a7;-1;-1
@@ -499,11 +499,11 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 576;3;Kouvola;KooKoo;KOO;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#e87026;#fefef4;-1;-1
 577;3;Mikkeli;Jukurit;JUK;-1;-1;-1;-1;-1;-1;-1;-1;#00326d;#ffd500;#fefef4;-1;-1
 578;3;Vaasa;Sport;SPO;-1;-1;-1;-1;-1;-1;-1;-1;#d00000;#d00000;#fefef4;-1;-1
-579;128;Lempäälä;LeKi;LEKI;-1;-1;-1;-1;-1;-1;-1;-1;#004a94;#004a94;#fefef4;0;-1
+579;128;Lempäälä;LeKi;LEKI;-1;-1;-1;-1;-1;-1;-1;-1;#004a94;#004a94;#fefef4;-1;-1
 580;59;Joensuu;Kiekko-Pojat;JoKP;564;-1;-1;-1;-1;-1;-1;-1;#e30614;#000000;#fefef4;-1;-1
-582;128;Kiekko-Vantaa;;KIVA;-1;-1;-1;-1;-1;-1;-1;-1;#006aac;#ff9114;#fefef4;0;-1
+582;128;Kiekko-Vantaa;;KIVA;-1;-1;-1;-1;-1;-1;-1;-1;#006aac;#ff9114;#fefef4;-1;-1
 583;59;Savonlinna;SaPKo;SPK;-1;-1;-1;-1;-1;-1;-1;-1;#013f78;#bd3539;#fefef4;-1;-1
-584;128;Turku;TUTO Hockey;TUTO;574;-1;-1;-1;-1;-1;-1;-1;#034093;#d20019;#fefef4;1;-1
+584;128;Turku;TUTO Hockey;TUTO;574;-1;-1;-1;-1;-1;-1;-1;#034093;#d20019;#fefef4;-1;-1
 585;59;Kajaani;Hokki;HOK;578;-1;-1;-1;-1;-1;-1;-1;#0038a8;#d81e05;#fefef4;-1;-1
 586;59;Heinola;Peliitat;PLI;575;577;-1;-1;-1;-1;-1;-1;#c00624;#000000;#fefef4;-1;-1
 587;60;Pori;Ässät U20;ÄSSA;562;-1;-1;-1;-1;-1;-1;-1;#bc0e0f;#000000;#fefef4;-1;-1
@@ -560,12 +560,12 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 643;126;Hannover;Amerikaner;IND;-1;-1;-1;-1;-1;-1;-1;-1;#dc062c;#1f2f7c;#fefef4;0;-1
 644;62;Lausitzer;Hunde;LFX;625;-1;-1;-1;-1;-1;-1;-1;#06418d;#0f76eb;#fefef4;-1;-1
 645;126;Kaufbeuren;EHC;ESV;-1;-1;-1;-1;-1;-1;-1;-1;#dc002e;#fbbd1a;#fefef4;0;-1
-646;6;Fischtown;Enten;BHV;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#c6251b;#fefef4;-1;-1
+646;62;Fischtown;Enten;BHV;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#c6251b;#fefef4;-1;-1
 647;6;Crimmitschau;Eisninjas;EPC;-1;-1;-1;-1;-1;-1;-1;-1;#e10322;#000000;#fefef4;-1;-1
 648;62;Ravensburg;Ritter;RVT;-1;-1;-1;-1;-1;-1;-1;-1;#004694;#e30613;#fefef4;-1;-1
 649;126;Riessersee;EHC;RIS;631;-1;-1;-1;-1;-1;-1;-1;#0c458c;#072b58;#fefef4;1;-1
 650;126;Dresdner;Pumas;DRE;-1;-1;-1;-1;-1;-1;-1;-1;#00192d;#009ee3;#fefef4;0;-1
-651;62;Bietigheim;Ironmen;SCB;627;-1;-1;-1;-1;-1;-1;-1;#00855a;#00855a;#fefef4;-1;-1
+651;6;Bietigheim;Ironmen;SCB;-1;-1;-1;-1;-1;-1;-1;-1;#00855a;#00855a;#fefef4;-1;-1
 652;63;Düsseldorfer;EHC U18;DEG;633;-1;-1;-1;-1;-1;-1;-1;#ff0000;#000000;#fefef4;0;-1
 653;242;Bad Tölz;EHC U18;ECB;1839;-1;-1;-1;-1;-1;-1;-1;#000000;#eecf01;#fefef4;-1;-1
 654;63;Berlin;Schneemänner U18;EBB;625;-1;-1;-1;-1;-1;-1;-1;#003468;#9c0034;#fefef4;0;-1
@@ -615,13 +615,13 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 712;15;Stjernen Hockey;;STJ;-1;-1;-1;-1;-1;-1;-1;-1;#cf0812;#cf0812;#fefef4;-1;-1
 713;15;Storhamar;Dragons;STO;-1;-1;-1;-1;-1;-1;-1;-1;#214065;#dec12b;#fefef4;-1;-1
 714;15;Vålerenga IF;;VIF;-1;-1;-1;-1;-1;-1;-1;-1;#0a4e9f;#ed1b24;#fefef4;-1;-1
-715;20;Sanok;STS;SAN;-1;-1;-1;-1;-1;-1;-1;-1;#002b8e;#d7010d;#fefef4;0;-1
-716;20;Tychy;GKS;TYC;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#23a23a;#bfa15d;0;-1
-717;20;Jastrzebie;JKH GKS;JAS;-1;-1;-1;-1;-1;-1;-1;-1;#009846;#e12228;#fefef4;1;-1
-718;20;Cracovia;ComArch;CRA;-1;-1;-1;-1;-1;-1;-1;-1;#f10a0a;#f10a0a;#fefef4;0;-1
-719;20;Oswiecim;Re-Plast Unia;OSW;-1;-1;-1;-1;-1;-1;-1;-1;#0077bb;#c39747;#fefef4;1;-1
-720;20;Sosnowiec;Zaglebie;ZAG;-1;-1;-1;-1;-1;-1;-1;-1;#00923f;#da251c;#fefef4;1;-1
-721;20;Torun;KH Energa;TOR;-1;-1;-1;-1;-1;-1;-1;-1;#042480;#f30000;#fefef4;1;-1
+715;20;Sanok;STS;SAN;-1;-1;-1;-1;-1;-1;-1;-1;#002b8e;#d7010d;#fefef4;-1;-1
+716;20;Tychy;GKS;TYC;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#23a23a;#bfa15d;-1;-1
+717;20;Jastrzebie;JKH GKS;JAS;-1;-1;-1;-1;-1;-1;-1;-1;#009846;#e12228;#fefef4;-1;-1
+718;20;Cracovia;ComArch;CRA;-1;-1;-1;-1;-1;-1;-1;-1;#f10a0a;#f10a0a;#fefef4;-1;-1
+719;20;Oswiecim;Re-Plast Unia;OSW;-1;-1;-1;-1;-1;-1;-1;-1;#0077bb;#c39747;#fefef4;-1;-1
+720;20;Sosnowiec;Zaglebie;ZAG;-1;-1;-1;-1;-1;-1;-1;-1;#00923f;#da251c;#fefef4;-1;-1
+721;20;Torun;KH Energa;TOR;-1;-1;-1;-1;-1;-1;-1;-1;#042480;#f30000;#fefef4;-1;-1
 722;151;Minsk;Dinamo-Olimpik;DIO;737;2591;-1;-1;-1;-1;-1;-1;#0095e3;#000000;#fefef4;-1;-1
 723;26;Galati;CSM Dunarea;GAL;-1;-1;-1;-1;-1;-1;-1;-1;#a81c1b;#16507e;#fefef4;-1;-1
 725;25;Gyergyói HK;;GYE;-1;-1;-1;-1;-1;-1;-1;-1;#ee2720;#000000;#fefef4;-1;-1
@@ -714,12 +714,12 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 835;66;EHC Kloten;;KLO;-1;-1;-1;-1;-1;-1;-1;-1;#304286;#c11f3b;#fefef4;-1;-1
 836;7;SC Rapperswil-Jona;Lakers;RAJ;-1;-1;-1;-1;-1;-1;-1;-1;#a71417;#00306c;#fefef4;-1;-1
 837;7;SC Bern;;SCB;-1;-1;-1;-1;-1;-1;-1;-1;#da2a06;#000000;#ffd700;-1;-1
-838;66;SC Langnau;Tigers;SCL;-1;-1;-1;-1;-1;-1;-1;-1;#ed1c24;#ffd600;#fefef4;-1;-1
+838;7;SC Langnau;Tigers;SCL;-1;-1;-1;-1;-1;-1;-1;-1;#ed1c24;#ffd600;#fefef4;-1;-1
 839;7;ZSC;Lions;ZSC;-1;-1;-1;-1;-1;-1;-1;-1;#0069b3;#e20613;#fefef4;-1;-1
 841;66;EHC Olten;;EHCO;-1;-1;-1;-1;-1;-1;-1;-1;#1e6f47;#1e6f47;#fefef4;-1;-1
 842;7;EHC Visp;;VIS;-1;-1;-1;-1;-1;-1;-1;-1;#ff0000;#000000;#fefef4;-1;-1
 843;66;GCK;Lions;GCK;839;-1;-1;-1;-1;-1;-1;-1;#0069b3;#e20613;#fefef4;-1;-1
-844;7;HC Ajoie;;HCA;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#ffd500;#fefef4;-1;-1
+844;66;HC Ajoie;;HCA;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#ffd500;#fefef4;-1;-1
 845;66;HC La Chaux-de-Fonds;;HCC;-1;-1;-1;-1;-1;-1;-1;-1;#00072c;#e4c999;#fefef4;-1;-1
 846;66;HC Sierre;;SIE;830;-1;-1;-1;-1;-1;-1;-1;#fd1812;#c8110e;#f7f701;-1;-1
 847;7;HC Thurgau;;HCT;-1;-1;-1;-1;-1;-1;-1;-1;#005e24;#52a92f;#fefef4;-1;-1
@@ -746,7 +746,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 875;4;HV71;;HV71;-1;-1;-1;-1;-1;-1;-1;-1;#013c7c;#eece39;#fefef4;-1;-1
 876;4;Skellefteå AIK;;SAIK;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#fcb913;#fefef4;-1;-1
 877;4;Linköping HC;;LHC;-1;-1;-1;-1;-1;-1;-1;-1;#003876;#f01f1a;#fefef4;-1;-1
-878;48;Timrå IK;;TIK;-1;-1;-1;-1;-1;-1;-1;-1;#eb0000;#eb0000;#fefef4;-1;-1
+878;4;Timrå IK;;TIK;-1;-1;-1;-1;-1;-1;-1;-1;#eb0000;#eb0000;#fefef4;-1;-1
 879;48;Frölunda HC;;FRÖ;-1;-1;-1;-1;-1;-1;-1;-1;#db2830;#006e49;#fefef4;-1;-1
 880;48;MoDo Hockey;;MODO;-1;-1;-1;-1;-1;-1;-1;-1;#de221b;#de221b;#fefef4;-1;-1
 881;4;Luleå HF;;LHF;-1;-1;-1;-1;-1;-1;-1;-1;#ed1c24;#000000;#fcff00;-1;-1
@@ -759,7 +759,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 888;69;Almtuna IS;;AIS;-1;-1;-1;-1;-1;-1;-1;-1;#dc002e;#dc002e;#fefef4;0;-1
 889;69;Tingsryds AIF;;TAIF;-1;-1;-1;-1;-1;-1;-1;-1;#008051;#008051;#fefef4;0;-1
 890;48;BIK Karlskoga;;BIK;-1;-1;-1;-1;-1;-1;-1;-1;#14457b;#146ab0;#fefef4;-1;-1
-891;69;Södertälje SK;;SSK;-1;-1;-1;-1;-1;-1;-1;-1;#016db8;#002653;#f0cc00;2;-1
+891;48;Södertälje SK;;SSK;-1;-1;-1;-1;-1;-1;-1;-1;#016db8;#002653;#f0cc00;-1;-1
 892;4;Rögle BK;;RBK;-1;-1;-1;-1;-1;-1;-1;-1;#067131;#067131;#fefef4;-1;-1
 893;4;Leksands IF;;LIF;-1;-1;-1;-1;-1;-1;-1;-1;#003876;#003876;#fefef4;-1;-1
 894;48;Västerås HK;;VIK;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#ebcc01;#fefef4;-1;-1
@@ -814,14 +814,14 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 952;78;Grästorps IK;;GRÄ;-1;-1;-1;-1;-1;-1;-1;-1;#ff0000;#000000;#fefef4;-1;-1
 953;69;Halmstad;Hammers HC;HHHC;897;-1;-1;-1;-1;-1;-1;-1;#072540;#cd2131;#fefef4;3;-1
 956;69;Huddinge IK;;HIK;873;-1;-1;-1;-1;-1;-1;-1;#ff0808;#00297c;#fefef4;3;-1
-957;4;Hudiksvalls HC;;HUD;-1;-1;-1;-1;-1;-1;-1;-1;#aa0000;#000000;#fefef4;-1;-1
+957;48;Hudiksvalls HC;;HUD;-1;-1;-1;-1;-1;-1;-1;-1;#aa0000;#000000;#fefef4;-1;-1
 958;78;IFK Arboga;;ARB;-1;-1;-1;-1;-1;-1;-1;-1;#0000ff;#ffff00;#fefef4;-1;-1
 959;78;Kumla Hockey;;KUM;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#ff0000;#fefef4;-1;-1
 961;78;IK Pantern;;IKP;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#ffcc00;#fee101;-1;-1
 962;78;Järfälla HC;;JÄR;-1;-1;-1;-1;-1;-1;-1;-1;#e20018;#1a4093;#fefef4;-1;-1
 963;103;Tallin;HC Panter;PAN;-1;-1;-1;-1;-1;-1;-1;-1;#aa0000;#000000;#fefef4;-1;-1
 964;69;Kalix HC;;KAL;-1;-1;-1;-1;-1;-1;-1;-1;#e30613;#e30613;#fefef4;0;-1
-965;48;KRIF Hockey;;KRIF;-1;-1;-1;-1;-1;-1;-1;-1;#001b49;#b81237;#fefef4;-1;-1
+965;69;KRIF Hockey;;KRIF;-1;-1;-1;-1;-1;-1;-1;-1;#001b49;#b81237;#fefef4;2;-1
 966;48;Karlskrona HK;;KAR;882;-1;-1;-1;-1;-1;-1;-1;#e87e0f;#000000;#fefef4;-1;-1
 967;69;Kiruna IF;;KIF;-1;-1;-1;-1;-1;-1;-1;-1;#b60307;#b60307;#fefef4;0;-1
 968;78;Kovlands IF;;KOV;895;-1;-1;-1;-1;-1;-1;-1;#01498d;#ee173b;#fefef4;-1;-1
@@ -943,7 +943,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 1470;127;HC Benátky nad Jizerou;;BNJ;-1;-1;-1;-1;-1;-1;-1;-1;#0059b3;#0059b3;#fefef4;1;-1
 1472;5;HC Dukla Jihlava;;JIH;-1;-1;-1;-1;-1;-1;-1;-1;#5d0024;#5d0024;#ffb718;-1;-1
 1473;127;BK Havlíckuv Brod;;HAVB;1472;-1;-1;-1;-1;-1;-1;-1;#d40000;#1e2f71;#fefef4;0;-1
-1475;5;Litomerice;HC Stadion;LTM;-1;-1;-1;-1;-1;-1;-1;-1;#102a83;#f07c00;#fefef4;-1;-1
+1475;83;Litomerice;HC Stadion;LTM;-1;-1;-1;-1;-1;-1;-1;-1;#102a83;#f07c00;#fefef4;-1;-1
 1477;83;HC Olomouc;;HCO;-1;-1;-1;-1;-1;-1;-1;-1;#cb2027;#ee1f24;#fefef4;-1;-1
 1478;127;Ústí nad Labem;HC Slovan;UST;523;-1;-1;-1;-1;-1;-1;-1;#101d6c;#e5d600;#fefef4;1;-1
 1479;127;Šumperk;Draci PARS;SUM;516;-1;-1;-1;-1;-1;-1;-1;#022d75;#e6d700;#fefef4;0;-1
@@ -1237,12 +1237,12 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 1830;126;Deggendorf;Blaze;DSC;-1;-1;-1;-1;-1;-1;-1;-1;#ff0000;#001e46;#fefef4;1;-1
 1831;126;Duisburg;EHC;EVD;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#df0611;#fefef4;0;-1
 1835;126;Herforder;EHC;HEV;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#000000;#fefef4;0;-1
-1836;126;Leipzig;Gladiatoren;IFL;647;-1;-1;-1;-1;-1;-1;-1;#000000;#1b85c8;#fefef4;0;-1
+1836;62;Leipzig;Gladiatoren;IFL;647;-1;-1;-1;-1;-1;-1;-1;#000000;#1b85c8;#fefef4;-1;-1
 1838;62;Frankfurt;Luchs;FRA;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#ff4518;#fefef4;-1;-1
 1839;126;Bad Tölz;EHC;ECT;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#eecf01;#fefef4;1;-1
 1841;126;Rostocker EC;Barrakudas;REC;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#dd022b;#fefef4;0;-1
 1842;126;Halle;Minotauren ;MEC;-1;-1;-1;-1;-1;-1;-1;-1;#d90101;#000000;#fefef4;0;-1
-1847;62;Selber Wölfe;EHC;SEL;-1;-1;-1;-1;-1;-1;-1;-1;#00345d;#ff0000;#fefef4;-1;-1
+1847;126;Selber Wölfe;EHC;SEL;-1;-1;-1;-1;-1;-1;-1;-1;#00345d;#ff0000;#fefef4;0;-1
 1848;127;HC Tábor;;TAB;2193;-1;-1;-1;-1;-1;-1;-1;#0166b3;#2b37a9;#fefef4;1;-1
 1849;127;HC Risuty;;RIS;-1;-1;-1;-1;-1;-1;-1;-1;#061c6c;#df7716;#fefef4;1;-1
 1850;127;HC Decín;;DEC;1475;-1;-1;-1;-1;-1;-1;-1;#23106f;#d9241d;#fefef4;1;-1
@@ -1255,11 +1255,11 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 1869;83;Prerov;HC ZUBR;PRE;520;-1;-1;-1;-1;-1;-1;-1;#22297a;#fff500;#fefef4;-1;-1
 1870;127;Prostejov;LHK Jestrábi;PRO;519;-1;-1;-1;-1;-1;-1;-1;#fd0000;#1a1a1a;#fefef4;1;-1
 1871;83;HC RT TORAX Poruba 2011;;POR;516;520;-1;-1;-1;-1;-1;-1;#cb241c;#1f317e;#fefef4;-1;-1
-1872;83;Vsetín;VHK ROBE;VSE;-1;-1;-1;-1;-1;-1;-1;-1;#0e482b;#fcce18;#fefef4;-1;-1
+1872;5;Vsetín;VHK ROBE;VSE;-1;-1;-1;-1;-1;-1;-1;-1;#0e482b;#fcce18;#fefef4;-1;-1
 1874;127;HK Nový Jicín;;NVJ;-1;-1;-1;-1;-1;-1;-1;-1;#121c75;#ec1b23;#fefef4;0;-1
 1875;127;Opava;HC Slezan;OPA;-1;-1;-1;-1;-1;-1;-1;-1;#ed1d24;#d2af31;#fefef4;0;-1
 1876;5;HC Frýdek-Místek;;FRY;-1;-1;-1;-1;-1;-1;-1;-1;#d20a18;#d20a18;#fefef4;-1;-1
-1877;83;Valašské Mezirící;HC Bobri;BOB;-1;-1;-1;-1;-1;-1;-1;-1;#1a1d7a;#c72811;#fefef4;-1;-1
+1877;127;Valašské Mezirící;HC Bobri;BOB;-1;-1;-1;-1;-1;-1;-1;-1;#1a1d7a;#c72811;#fefef4;0;-1
 1880;2;HC Sochi;;SCH;-1;-1;-1;-1;-1;-1;-1;-1;#03629e;#314a75;#facc2e;0;0
 1881;213;Gdansk;GKS Stoczniowiec;STO;-1;-1;-1;-1;-1;-1;-1;-1;#0000ff;#0000ff;#fefef4;-1;-1
 1882;243;Utah;Outliers;UTA;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#000000;#a6b0b2;-1;-1
@@ -1274,7 +1274,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 1896;114;Southwestern Semi-Pro;;SWS;158;75;1096;77;172;1095;48;-1;#000000;#000000;#fefef4;-1;-1
 1898;129;Hämeenkyrö;Hokkarit;HOK;-1;-1;-1;-1;-1;-1;-1;-1;#271fef;#4379c0;#fefef4;1;-1
 1899;243;Provo;Predators;PRO;-1;-1;-1;-1;-1;-1;-1;-1;#002e62;#002e62;#fefef4;-1;-1
-1901;16;Tours;Remparts;TOU;-1;-1;-1;-1;-1;-1;-1;-1;#00bfff;#000000;#bebebe;-1;-1
+1901;147;Tours;Remparts;TOU;-1;-1;-1;-1;-1;-1;-1;-1;#00bfff;#000000;#bebebe;-1;-1
 1902;130;Tampere;AHK;AHK;-1;-1;-1;-1;-1;-1;-1;-1;#268754;#feb914;#fefef4;1;0
 1903;37;Cégep Beauce-Appalaches;Condors;CBA;-1;-1;-1;-1;-1;-1;-1;-1;#154532;#e3a500;#fefef4;-1;1
 1907;58;Mountfield HK;U20;MHK;513;-1;-1;-1;-1;-1;-1;-1;#000000;#a3191b;#fefef4;-1;-1
@@ -1282,16 +1282,16 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 1917;130;Haukipudas;Ahmat;AHM;-1;-1;-1;-1;-1;-1;-1;-1;#ffaf00;#0000f0;#fefef4;5;0
 1918;59;Kokkola;Hermes;HER;570;562;-1;-1;-1;-1;-1;-1;#d00202;#05295a;#fefef4;-1;-1
 1919;129;Kalajoki;JHT;JHT;-1;-1;-1;-1;-1;-1;-1;-1;#1d45a5;#d62718;#fefef4;3;-1
-1920;128;Raahe-Kiekko;;RJK;-1;-1;-1;-1;-1;-1;-1;-1;#172558;#d0191f;#fefef4;0;-1
+1920;128;Raahe-Kiekko;;RJK;-1;-1;-1;-1;-1;-1;-1;-1;#172558;#d0191f;#fefef4;-1;-1
 1922;59;Rovaniemi;RoKi;RoKi;-1;-1;-1;-1;-1;-1;-1;-1;#20329c;#2337ad;#ffe800;-1;-1
-1923;128;Seinäjoki;S-Kiekko;SKI;-1;-1;-1;-1;-1;-1;-1;-1;#005ea1;#ed1c24;#fefef4;1;-1
+1923;128;Seinäjoki;S-Kiekko;SKI;-1;-1;-1;-1;-1;-1;-1;-1;#005ea1;#ed1c24;#fefef4;-1;-1
 1925;59;Iisalmi;Peli-Karhut;IPK;569;-1;-1;-1;-1;-1;-1;-1;#000000;#ffb000;#fefef4;-1;-1
 1927;59;Keuruu;KeuPa HT;KPHT;568;571;-1;-1;-1;-1;-1;-1;#1069a9;#d73526;#fefef4;-1;-1
 1928;59;Tampere;KOOVEE;KV;566;573;-1;-1;-1;-1;-1;-1;#8a1e22;#f5ab15;#fefef4;-1;-1
-1930;128;Nokia;PYRY;PYRY;-1;-1;-1;-1;-1;-1;-1;-1;#ef2f24;#000000;#fefef4;0;-1
-1931;128;Forssa;FPS;FPS;565;-1;-1;-1;-1;-1;-1;-1;#00382d;#000000;#fefef4;1;-1
-1933;128;Porvoo;Hunters;HUN;-1;-1;-1;-1;-1;-1;-1;-1;#172e5a;#cf2d27;#fefef4;1;-1
-1934;128;Imatra;Ketterä;KET;572;-1;-1;-1;-1;-1;-1;-1;#002e7b;#c6141b;#fefef4;0;-1
+1930;128;Nokia;PYRY;PYRY;-1;-1;-1;-1;-1;-1;-1;-1;#ef2f24;#000000;#fefef4;-1;-1
+1931;128;Forssa;FPS;FPS;565;-1;-1;-1;-1;-1;-1;-1;#00382d;#000000;#fefef4;-1;-1
+1933;128;Porvoo;Hunters;HUN;-1;-1;-1;-1;-1;-1;-1;-1;#172e5a;#cf2d27;#fefef4;-1;-1
+1934;128;Imatra;Ketterä;KET;572;-1;-1;-1;-1;-1;-1;-1;#002e7b;#c6141b;#fefef4;-1;-1
 1935;129;Salo;Kiekkohait;KHA;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#00bdc7;#fefef4;5;-1
 1937;129;Kotka;Titaanit;TIT;576;-1;-1;-1;-1;-1;-1;-1;#e3010f;#0060aa;#fefef4;5;-1
 1938;130;Helsinki;HJK;HJK;-1;-1;-1;-1;-1;-1;-1;-1;#0000ff;#0202f9;#fefef4;0;0
@@ -1496,7 +1496,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 2185;103;HS Riga;;HSR;-1;-1;-1;-1;-1;-1;-1;-1;#0033a0;#d2ac50;#fefef4;-1;-1
 2186;104;HK Tukums;;TUK;-1;-1;-1;-1;-1;-1;-1;-1;#081e33;#014c2e;#fefef4;-1;-1
 2187;103;HK Zemgale/LLU;;ZMG;-1;-1;-1;-1;-1;-1;-1;-1;#005395;#9f1536;#fefef4;-1;-1
-2188;20;Katowice;GKS;KAT;-1;-1;-1;-1;-1;-1;-1;-1;#097740;#000000;#fefef4;0;-1
+2188;20;Katowice;GKS;KAT;-1;-1;-1;-1;-1;-1;-1;-1;#097740;#000000;#fefef4;-1;-1
 2190;24;Rungsted;Seier Capital;RUG;-1;-1;-1;-1;-1;-1;-1;-1;#0049af;#d40000;#fefef4;-1;-1
 2193;83;Ceské Budejovice;Madeta Motor;CES;-1;-1;-1;-1;-1;-1;-1;-1;#174489;#d8232a;#ffd43b;-1;-1
 2196;53;Almetievsk;Sputnik;SPU;768;-1;-1;-1;-1;-1;-1;-1;#007534;#f3262a;#fefef4;1;0
@@ -1529,8 +1529,8 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 2251;130;Vammala;VaPS Hockey;VAPS;-1;-1;-1;-1;-1;-1;-1;-1;#2011f6;#000000;#fefef4;1;0
 2252;129;Valkeakoski;Kiekko-Ahma;VKA;-1;-1;-1;-1;-1;-1;-1;-1;#1919c1;#fa7d07;#fefef4;1;-1
 2254;129;Alavus;Peli-Veikot;APV;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#aa0000;#ffcb08;2;-1
-2256;128;Lapua;Virkiä;VIR;-1;-1;-1;-1;-1;-1;-1;-1;#0e2c67;#02569f;#fefef4;1;-1
-2259;128;Nykarleby;Muik Hockey;MUIK;-1;-1;-1;-1;-1;-1;-1;-1;#b52429;#001b48;#fefef4;1;-1
+2256;129;Lapua;Virkiä;VIR;-1;-1;-1;-1;-1;-1;-1;-1;#0e2c67;#02569f;#fefef4;3;-1
+2259;128;Nykarleby;Muik Hockey;MUIK;-1;-1;-1;-1;-1;-1;-1;-1;#b52429;#001b48;#fefef4;-1;-1
 2260;130;Ähtäri;Kiekko-Haukat;KIEHA;-1;-1;-1;-1;-1;-1;-1;-1;#ed0000;#0000f0;#fefef4;2;1
 2261;129;Kronoby;IK Kronan;IKK;-1;-1;-1;-1;-1;-1;-1;-1;#e90000;#14ae00;#fefef4;2;-1
 2262;129;Kurikka;Ryhti;KURY;-1;-1;-1;-1;-1;-1;-1;-1;#da251c;#000000;#fefef4;2;-1
@@ -1550,7 +1550,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 2281;129;Paimio;Haka;HAKA;-1;-1;-1;-1;-1;-1;-1;-1;#009200;#009200;#fefef4;5;-1
 2282;130;Turku;Kisurit;TUKV;-1;-1;-1;-1;-1;-1;-1;-1;#2bef3f;#000000;#fefef4;3;1
 2284;129;Turku;Chiefs;CHI;-1;-1;-1;-1;-1;-1;-1;-1;#181a53;#f6bc1a;#fefef4;5;-1
-2287;128;Naantali;VG-62;VG62;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#f9c146;#fefef4;0;-1
+2287;128;Naantali;VG-62;VG62;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#f9c146;#fefef4;-1;-1
 2288;129;Raisio;RNK Hoci;RNK;-1;-1;-1;-1;-1;-1;-1;-1;#21263a;#f8cd1f;#fefef4;5;-1
 2289;129;Nummela;Kiekko-Veljet;NKV;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#ff0000;#fefef4;0;-1
 2290;70;Örebro HK;J20;ÖRE;886;-1;-1;-1;-1;-1;-1;-1;#c51216;#000000;#fefef4;-1;-1
@@ -1754,7 +1754,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 2525;138;Rikkyo University;;RIK;-1;-1;-1;-1;-1;-1;-1;-1;#000062;#000062;#fefef4;-1;-1
 2526;138;Senshu University;;SEN;-1;-1;-1;-1;-1;-1;-1;-1;#008000;#008000;#fefef4;-1;-1
 2527;213;Bytom;BS Polonia;POL;-1;-1;-1;-1;-1;-1;-1;-1;#cc0000;#00518f;#e3b758;-1;-1
-2529;20;Nowy Targ;KH Podhale;POD;-1;-1;-1;-1;-1;-1;-1;-1;#09448c;#d82533;#fec931;0;-1
+2529;20;Nowy Targ;KH Podhale;POD;-1;-1;-1;-1;-1;-1;-1;-1;#09448c;#d82533;#fec931;-1;-1
 2545;54;HK Rostov;;ROS;1880;-1;-1;-1;-1;-1;-1;-1;#e31e24;#e31e24;#fefef4;-1;-1
 2547;53;Sakhalinskie Akuly;;AKU;-1;-1;-1;-1;-1;-1;-1;-1;#39a6e4;#0c2d40;#fefef4;0;0
 2548;55;HK Bryansk;;BRY;-1;-1;-1;-1;-1;-1;-1;-1;#28166f;#da251d;#fefef4;-1;-1
@@ -2871,7 +2871,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 3916;33;Evansville;Thunderbolts;EVA;-1;-1;-1;-1;-1;-1;-1;-1;#d2202f;#172751;#fefef4;-1;-1
 3917;34;Shreveport;Mudbugs;SHR;-1;-1;-1;-1;-1;-1;-1;-1;#32127a;#008080;#fefef4;-1;3
 3918;34;Northeast;Generals;NEG;-1;-1;-1;-1;-1;-1;-1;-1;#e76b21;#213b73;#fefef4;-1;1
-3922;127;HC ISMM Koprivnice;;KOP;-1;-1;-1;-1;-1;-1;-1;-1;#2e207f;#efbb2b;#fefef4;0;-1
+3922;83;HC ISMM Koprivnice;;KOP;-1;-1;-1;-1;-1;-1;-1;-1;#2e207f;#efbb2b;#fefef4;-1;-1
 3923;16;Chamonix-Mont Blanc;Pionniers;CHM;-1;-1;-1;-1;-1;-1;-1;-1;#af0102;#000000;#fefef4;-1;-1
 3927;69;Tyringe SoSS;;TYR;-1;-1;-1;-1;-1;-1;-1;-1;#052562;#cb081c;#fefef4;3;-1
 3928;78;Hanhals IF;;HAN;879;-1;-1;-1;-1;-1;-1;-1;#e01c12;#07275e;#fefef4;-1;-1
@@ -3389,7 +3389,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 4639;55;Cherepovets;Metallurg;CHE;739;908;-1;-1;-1;-1;-1;-1;#000000;#eb0000;#fefef4;-1;-1
 4640;151;Baranovichi;Aviator;BAR;497;-1;-1;-1;-1;-1;-1;-1;#000000;#ff0000;#fefef4;-1;-1
 4643;151;Pinsk;Yastreby;YAS;503;-1;-1;-1;-1;-1;-1;-1;#aa0000;#aa0000;#fefef4;-1;-1
-4644;147;Marseille;Spartiates;MAR;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#55ffff;#fefef4;-1;-1
+4644;16;Marseille;Spartiates;MAR;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#55ffff;#fefef4;-1;-1
 4645;136;Västerviks IK;J18;VÄS18;1414;-1;-1;-1;-1;-1;-1;-1;#ed1b24;#ed1b24;#fefef4;0;-1
 4646;156;HC RT TORAX Poruba;U15;POR;1871;-1;-1;-1;-1;-1;-1;-1;#a53534;#06397b;#fefef4;-1;-1
 4647;203;Tartu;HK Välk 494;TAR;-1;-1;-1;-1;-1;-1;-1;-1;#0e1b8d;#e7112c;#fff519;-1;-1
@@ -3457,7 +3457,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 4722;198;HC Unterland;Cavaliers;HCU;676;-1;-1;-1;-1;-1;-1;-1;#002d64;#aeafb3;#fefef4;-1;-1
 4724;71;Brixen;HC Falcons;BRI;-1;-1;-1;-1;-1;-1;-1;-1;#12142d;#c91b23;#fefef4;-1;-1
 4727;127;HC Baník Príbram;;PRI;1861;-1;-1;-1;-1;-1;-1;-1;#019541;#000000;#fefef4;1;-1
-4729;126;Höchstadt;Alligators;HEC;1847;-1;-1;-1;-1;-1;-1;-1;#008b3a;#000000;#fefef4;1;-1
+4729;126;Höchstadt;Alligators;HEC;-1;-1;-1;-1;-1;-1;-1;-1;#008b3a;#000000;#fefef4;1;-1
 4730;69;Strömsbro IF;;STR;-1;-1;-1;-1;-1;-1;-1;-1;#e9540d;#232f5d;#fefef4;0;-1
 4731;57;Tashkent;Humo;HUM;-1;-1;-1;-1;-1;-1;-1;-1;#29218f;#007c39;#fefef4;-1;-1
 4735;53;Perm;MHK Molot;MHK;767;-1;-1;-1;-1;-1;-1;-1;#000000;#000000;#fefef4;1;0
@@ -3507,7 +3507,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 4791;55;St. Petersburg;Dynamo Juniors;STP;3913;-1;-1;-1;-1;-1;-1;-1;#1e2e69;#0095e3;#fefef4;-1;-1
 4792;55;MHK Ryazan-VDV;;RYA;760;-1;-1;-1;-1;-1;-1;-1;#083a7b;#0d65d1;#fefef4;-1;-1
 4793;53;Kondopoga;SKA-GUOR Kareliya;GUOR;-1;-1;-1;-1;-1;-1;-1;-1;#00007f;#0055ff;#fefef4;0;0
-4794;129;Laukaa;Gladiators HT;PEU;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#c08300;#fefef4;3;-1
+4794;128;Laukaa;Gladiators HT;PEU;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#c08300;#fefef4;-1;-1
 4795;110;California;U15;CAL;-1;-1;-1;-1;-1;-1;-1;-1;#b11132;#00803f;#fefef4;-1;1
 4797;249;HK Mladi Draci Šumperk;U20;SUM;1479;-1;-1;-1;-1;-1;-1;-1;#0368ff;#059316;#f4ff10;-1;-1
 4798;249;AZ Havírov;U20;HAV;1868;-1;-1;-1;-1;-1;-1;-1;#002e62;#000000;#fefef4;-1;-1
