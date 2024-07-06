@@ -21,6 +21,8 @@ League Id;Conference Id;Name
 14;4;Central Collegiate Hockey Association
 14;5;NCHC
 14;6;Independents
+20;0;Group A
+20;1;Group B
 29;0;Hellyer Conference
 29;1;Rurak Conference
 35;0;Eastern Conference
@@ -50,6 +52,8 @@ League Id;Conference Id;Name
 127;0;Východ
 127;1;Západ
 127;2;Stred
+128;0;Group One
+128;1;Group Two
 129;0;Lohko 1 (Etelä)
 129;1;Lohko 2 (Häme)
 129;2;Lohko 3 (Keskimaa)
