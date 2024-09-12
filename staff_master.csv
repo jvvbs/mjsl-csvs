@@ -1678,7 +1678,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 1676;-1;Kari;Martikainen;;1968-9-15;Helsinki;UUS;Finland;;;1
 1677;549;Mika;Martikainen;;1978-9-14;Joensuu;NOR;Finland;;;0
 1678;873;Anssi;Laine;;1981-5-14;Keuruu;FIN;Finland;;;0
-1679;566;Lauri;Mikkola;Late;1981-2-1;Oulu;NOS;Finland;;;0
+1679;-1;Lauri;Mikkola;Late;1981-2-1;Oulu;NOS;Finland;;;0
 1680;-1;Samu;Isosalo;;1981-6-10;Rauma;SAT;Finland;;;0
 1681;-1;Kari;Eloranta;Piri;1956-2-29;Lahti;PAH;Finland;;;1
 1682;-1;Jussi;Tupamäki;;1977-11-30;Pori;SAT;Finland;;;1
@@ -6800,7 +6800,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 6798;-1;Daniel;Jacob;;1980-7-20;Saint-Jean-sur-Richelieu;QC;Canada;Serbia;;0
 6799;-1;Alexandre;Jacques;;1977-9-27;Laval;QC;Canada;;;0
 6800;341;Mathieu;Gravel;;1984-10-19;Prince Albert;SK;Canada;;;0
-6801;135;Jean-François;Grégoire;;1972-12-13;Sherbrooke;QC;Canada;;;0
+6801;-1;Jean-François;Grégoire;;1972-12-13;Sherbrooke;QC;Canada;;;0
 6802;-1;Pascal;Morency;;1982-2-20;Montreal;QC;Canada;;;0
 6803;-1;Martin;Cadorette;;1970-9-22;Mont-Saint-Hilaire;QC;Canada;;;1
 6804;135;Maxim;Thibeault;;1986-3-30;Baie-Comeau;QC;Canada;;;0
@@ -6827,7 +6827,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 6825;14;Brian;Roberts;;1959-6-28;Philadelphia;PA;The United States;;;0
 6826;-1;Curtis;Joseph;;1967-4-29;Georgina;ON;Canada;;;1
 6827;-1;Tom;Ward;;1964-1-16;Richfield;MN;The United States;;;1
-6828;116;Ryane;Clowe;;1982-9-30;St. John's;NL;Canada;;;0
+6828;-1;Ryane;Clowe;;1982-9-30;St. John's;NL;Canada;;;0
 6829;-1;Sergei;Gonchar;;1974-4-13;Chelyabinsk;CHE;Russia;;;1
 6830;-1;Joe;Huff;;1976-1-1;Des Moines;IA;The United States;;;1
 6831;-1;Jason;Serbus;;1976-1-1;Bird Island;MN;The United States;;;1
@@ -7474,7 +7474,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 7472;-1;Hannu;Kapanen;;1951-3-13;Kontiolahti;NOR;Finland;;;1
 7473;558;Henri;Otranen;;1992-5-8;Mikkeli;SSA;Finland;;;0
 7474;-1;Juha;Lampinen;;1970-4-10;Tampere;PIR;Finland;;;1
-7475;706;Janne;Hietaniemi;;1988-1-16;Helsinki;UUS;Finland;;;0
+7475;-1;Janne;Hietaniemi;;1988-1-16;Helsinki;UUS;Finland;;;0
 7476;-1;Hero;Mali;;1975-5-17;Forssa;KAN;Finland;;;1
 7477;-1;Matias;Ylitalo;;1972-3-3;Helsinki;UUS;Finland;;;1
 7478;-1;Torbjørn;Orskaug;;1966-7-18;Oslo;AKE;Norway;;;1
@@ -10282,10 +10282,10 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 10280;115;Paul;Aguanno;;1985-1-1;Mississauga;ON;Canada;;;0
 10281;322;Jerrett;DeFazio;;1971-7-9;Ottawa;ON;Canada;;;0
 10282;-1;Kris;Sparre;;1987-1-12;Mississauga;ON;Germany;Canada;;0
-10283;116;Ryan;Ludzik;;1988-10-14;Niagara Falls;ON;Canada;;;0
+10283;-1;Ryan;Ludzik;;1988-10-14;Niagara Falls;ON;Canada;;;0
 10284;-1;Jay;McKnight;;1970-1-1;Mississauga;ON;Canada;;;1
 10285;116;Darryl;Boulley;;1970-1-1;Richmond;BC;Canada;;;0
-10286;421;Matt;Milne;;1989-7-24;Newmarket;ON;Canada;;;0
+10286;135;Matt;Milne;;1989-7-24;Newmarket;ON;Canada;;;0
 10287;-1;Kenny;Fleck;;1970-1-1;Vaughan;ON;Canada;;;1
 10288;116;Nathan;Martine;;1988-5-24;Port Colborne;ON;Hungary;Canada;;0
 10289;113;Mark;Seidel;;1970-8-25;Espanola;ON;Canada;;;0
@@ -11297,7 +11297,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 11295;-1;Louis;Gravel;;1966-3-11;Lévis;QC;Canada;;;1
 11296;366;Brian;Maloney;;1978-9-27;Bassano;AB;Canada;;;0
 11297;361;Chris;Carter;;1977-1-1;St. John's;NL;Canada;;;0
-11298;2576;RJay;Berra;;1990-7-26;Prince George;BC;Canada;;;0
+11298;391;RJay;Berra;;1990-7-26;Prince George;BC;Canada;;;0
 11299;362;Linden;Saip;;1991-6-24;Delta;BC;Canada;;;0
 11300;458;Mike;Mankowksi;;1981-1-1;Dunedin;FL;The United States;;;0
 11301;222;Will;Adua;;1986-1-1;Oceanside;CA;The United States;;;0
@@ -12254,7 +12254,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 12252;627;Jan;Kolar;;1981-3-21;Boskovice;JHM;Czech Republic;;;0
 12253;578;Radim;Knapek;;1977-5-8;Karlovy Vary;KAR;Czech Republic;;;0
 12254;524;Daniel;Kubelka;;1990-1-1;Karlovy Vary;KAR;Czech Republic;;;0
-12255;-1;Marek;Gryc;;1995-4-5;Brno;JHM;Czech Republic;;;0
+12255;4560;Marek;Gryc;;1995-4-5;Brno;JHM;Czech Republic;;;0
 12256;516;Denis;Havel;;1988-10-25;Trinec;MOR;Czech Republic;;;0
 12257;512;Vojtech;Tulacka;;1994-11-25;Plzen;PLZ;Czech Republic;;;0
 12258;-1;Daniel;Branda;;1976-2-20;Chomutov;UST;Czech Republic;;;1
@@ -12748,7 +12748,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 12746;-1;Michael;Ringberg;;1988-10-24;Åkersberga;STO;Sweden;;;0
 12747;-1;Rune;Neuman;;1961-7-20;Nykarleby;OST;Finland;;;1
 12748;-1;Patric;Vesterlund;;1969-11-9;Nykarleby;OST;Finland;;;1
-12749;4069;Daniel;Triesler;;1988-9-9;Dover;DE;The United States;;;0
+12749;421;Daniel;Triesler;;1988-9-9;Dover;DE;The United States;;;0
 12750;-1;Eero;Rossinen;;1965-9-30;Helsinki;UUS;Finland;;;1
 12751;2556;Jesse;Svärd;;1992-6-28;Jyväskylä;FIN;Finland;;;0
 12752;601;Waltteri;Viitanen;;1996-3-31;Tampere;PIR;Finland;;;0
@@ -12979,7 +12979,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 12977;113;Shane;McCarthy;;1988-11-8;Newmarket;ON;Canada;;;0
 12978;122;Taylor;Carnevale;;1991-3-15;Mississauga;ON;Canada;Italy;;0
 12979;-1;Keith;Kling;;1970-1-1;Barrie;ON;Canada;;;1
-12980;77;Scott;Grieve;;1995-3-1;Winnipeg;MB;Canada;;;0
+12980;299;Scott;Grieve;;1995-3-1;Winnipeg;MB;Canada;;;0
 12981;-1;Michael;Spadacini;;1968-6-5;Toronto;ON;Canada;;;1
 12982;118;Jeff;Richards;;1970-1-1;Kitchener;ON;Canada;;;0
 12983;118;Brad;Gauld;;1970-1-1;Antigonish;NS;Canada;;;0
@@ -13105,7 +13105,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 13103;-1;Jordie;Gavin;;1982-9-22;Canberra;ACT;Australia;;;0
 13104;-1;Sami;Mantere;;1985-12-5;Helsinki;UUS;Finland;Australia;;0
 13105;-1;Corey;Smith;;1976-1-1;Adelaide;SA;Australia;;;0
-13106;1990;Mike;Marshall;;1991-10-8;Calgary;AB;Canada;;;0
+13106;5039;Mike;Marshall;;1991-10-8;Calgary;AB;Canada;;;0
 13107;170;Johan;Steenberg;;1978-8-9;Karlskoga;ÖRE;Sweden;Australia;;0
 13108;-1;Glen;Mayer;;1980-1-1;Oshawa;ON;Canada;Australia;;0
 13109;455;Andrew;Lamrock;;1970-1-1;Melbourne;VIC;Australia;;;0
@@ -13311,7 +13311,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 13309;229;Nate;Skidmore;;1995-6-16;Syracuse;NY;The United States;;;0
 13310;22;Brooks;Orpik;;1980-9-26;San Francisco;CA;The United States;;;0
 13311;4864;Gehrig;Sarosy;;1999-9-28;Syracuse;NY;The United States;;;0
-13312;149;Rob;Couturier;;1978-4-13;Portland;ME;The United States;;;0
+13312;-1;Rob;Couturier;;1978-4-13;Portland;ME;The United States;;;0
 13313;-1;D.J.;Goldstein;;1993-11-1;Canandaigua;NY;The United States;;;0
 13314;213;Maxx;Fredrickson;;1997-5-17;Island Park;NY;The United States;;;0
 13315;-1;Daniel;Paille;;1984-4-15;Welland;ON;Canada;;;0
@@ -13543,7 +13543,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 13541;207;Duante;Abercrombie;;1987-2-18;Washington;DC;The United States;;;0
 13542;44;Zack;Stortini;;1985-9-11;Elliot Lake;ON;Canada;;;0
 13543;44;Parker;Poore;;1993-1-1;Colorado Springs;CO;The United States;;;0
-13544;-1;Ryan;Parent;;1987-3-17;Prince Albert;SK;Canada;;;0
+13544;135;Ryan;Parent;;1987-3-17;Prince Albert;SK;Canada;;;0
 13545;-1;Brian;Eklund;;1980-5-24;Braintree;MA;The United States;;;0
 13546;729;Ryan;Monaco;;1982-1-1;Hartford;NY;The United States;;;0
 13547;55;Jon;Williams;;1987-1-1;Utica;NY;The United States;;;0
@@ -13979,7 +13979,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 13977;-1;David;Fischer;;1988-2-19;Minneapolis;MN;The United States;;;0
 13978;1828;Konstantin;Korneyev;;1984-6-5;Moscow;MOS;Russia;;;0
 13979;-1;Igor;Apostolidis;;1969-9-15;Athens;ATT;Greece;;;1
-13980;4800;Vladislav;Hamrla;;1985-1-1;Opava;MOR;Czech Republic;;;0
+13980;4560;Vladislav;Hamrla;;1985-1-1;Opava;MOR;Czech Republic;;;0
 13981;4963;Ivo;Anschlag;;1985-1-1;Vyskov;JHM;Czech Republic;;;0
 13982;523;Oldrich;Kopecky;;1975-4-27;Zabreh;OLO;Czech Republic;;;0
 13983;2657;Daisuke;Sakai;;1987-2-27;Nagano;NAG;Japan;;;0
@@ -14224,7 +14224,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 14222;-1;Dominik;Gabaj;;1992-12-18;Bratislava;BRA;Slovakia;;;0
 14223;1422;Steve;Merry;;1979-1-1;Darlington;ENG;England;;;0
 14224;1422;Archie;Bicknell;;1995-1-1;Birkenhead;ENG;England;;;0
-14225;1453;Becci;Osman;Rebecca Hargreaves;1983-1-1;London;ENG;England;Wales;;0
+14225;-1;Becci;Osman;Rebecca Hargreaves;1983-1-1;London;ENG;England;Wales;;0
 14226;-1;Adam;Harding;;1993-1-3;Cardiff;WAL;Wales;;;0
 14227;1453;Chris;Day;;1980-1-1;Carlton;ENG;England;;;0
 14228;4961;Matthew;Davies;;1990-2-15;Portsmouth;ENG;England;;;0
@@ -14637,7 +14637,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 14635;-1;Dustin;Carlson;;1986-5-31;Forest Lake;MN;The United States;;;0
 14636;-1;Maxence;Essiambre;;1990-4-30;Montreal;QC;Canada;;;0
 14637;-1;Kyle;Mountain;;1990-9-3;Bryn Mawr;PA;The United States;;;0
-14638;78;Fred;Quistgard;;1985-1-1;Acworth;GA;The United States;;;0
+14638;-1;Fred;Quistgard;;1985-1-1;Acworth;GA;The United States;;;0
 14639;-1;Zachary;Badalamenti;;1993-4-12;Harrison Township;MI;The United States;;;0
 14640;226;Vincent;Stalletti;;1992-10-21;Cicero;NY;The United States;;;0
 14641;5;Colin;Reddin;;1990-6-23;Erie;PA;The United States;;;0
@@ -17743,7 +17743,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 17741;-1;Lee;Thompson;;1980-6-16;Boston;MA;The United States;;;0
 17742;-1;Douglas;Manush;;1963-4-1;Bozeman;MT;The United States;;;1
 17743;-1;Jerry;Sharpe;;1963-4-14;Brooklyn;NY;The United States;;;0
-17744;299;Henry;Hofman;;1991-9-20;Manassas;VA;The United States;;;0
+17744;2576;Henry;Hofman;;1991-9-20;Manassas;VA;The United States;;;0
 17745;-1;Thomas;Harper;;1976-12-19;Columbus;OH;The United States;;;0
 17746;1882;Rick;Kirsopp;;1986-2-9;Dallas;TX;The United States;;;0
 17747;-1;Logan;Cosby;;1974-11-4;Rochester;NY;The United States;;;0
@@ -17771,7 +17771,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 17769;-1;Stanley;Stephens;;1967-3-23;Vancouver;WA;The United States;;;0
 17770;-1;Gaelan;Hart;;1967-2-7;Calgary;AB;Canada;;;1
 17771;-1;Braden;Bodnarchuk;;1982-12-12;Toronto;ON;Canada;;;0
-17772;3189;Willie;Sandstrom;;1985-4-23;Porterville;CA;The United States;;;0
+17772;2092;Willie;Sandstrom;;1985-4-23;Porterville;CA;The United States;;;0
 17773;-1;Adrian;Robinson;;1969-9-1;Honolulu;HI;The United States;;;0
 17774;257;Jeff;Singleton;;1991-4-26;Quincy;MA;The United States;;;0
 17775;-1;Nathan;McDowell;;1964-8-29;New York;NY;The United States;;;0
@@ -18994,7 +18994,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 18992;-1;Manfred;Arnold;;1968-1-10;Korntal-Münchingen;BAD;Germany;;;1
 18993;658;Marius;Eckert;;1985-10-2;Windorf;BAV;Germany;;;0
 18994;-1;Maximillian;Schmitz;;1988-5-26;Paderborn;NOR;Germany;;;0
-18995;3439;Martin;Kamp;;1988-5-14;Sankt Wendel;SAA;Germany;;;0
+18995;4259;Martin;Kamp;;1988-5-14;Sankt Wendel;SAA;Germany;;;0
 18996;-1;Erich;Krapp;;1971-4-3;Berlin;BER;Germany;;;0
 18997;1821;Phillip;Holtmann;;1987-7-16;Monheim;NOR;Germany;;;0
 18998;1821;Eren;Bölükbasi;;1976-10-20;Berlin;BER;Germany;;;0
@@ -19589,7 +19589,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 19587;2108;Ondrej;Mikyska;;1967-11-8;Ceské Budejovice;JIH;Czech Republic;;;0
 19588;3419;Sean;Filmer;;1989-6-10;Congleton;ENG;England;;;0
 19589;2109;Harrison;Hathway;;1976-5-30;Sutton in Ashfield;ENG;England;;;0
-19590;4657;Liam;Longden;;1987-3-29;London;ENG;England;;;0
+19590;3928;Liam;Longden;;1987-3-29;London;ENG;England;;;0
 19591;2110;Jamie;Woolgrove;;1970-7-3;Swinton;ENG;England;;;0
 19592;2111;Wally;McIlwraith;;1982-7-23;Aldershot;ENG;England;;;0
 19593;2111;Neil;Instone;;1964-4-5;Bolton;ENG;England;;;0
@@ -19954,7 +19954,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 19952;-1;Alexandre;François;;1979-2-21;Le Cateau-Cambrésis;NOR;France;;;0
 19953;-1;Sacha;Lepage;;1965-10-2;Stains;ÎLE;France;;;1
 19954;2310;César;Dupuis;;1979-11-23;Vannes;BRI;France;;;0
-19955;4259;Anthony;Meunier;;1988-8-26;Dijon;BUR;France;;;0
+19955;2944;Anthony;Meunier;;1988-8-26;Dijon;BUR;France;;;0
 19956;-1;Hajjaj;Halim;;1987-4-24;Alizay;UPP;France;;;0
 19957;-1;Florentin;Lévèque;;1980-11-1;Aillevillers-et-Lyaumont;FRA;France;;;0
 19958;2312;Philippe;Châtel;;1983-4-1;Le Creusot;BUR;France;;;0
@@ -20609,7 +20609,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 20607;-1;Tapio;Bärlund;;1989-5-11;Imatra;SKA;Finland;;;0
 20608;2638;Akseli;Venho;;1975-6-13;Kankaanpää;SAT;Finland;;;0
 20609;2638;Samuli;Hanhela;;1992-5-23;Kittilä;LAP;Finland;;;0
-20610;3928;Juuso;Viinanen;;1991-3-30;Jyväskylä;FIN;Finland;;;0
+20610;4800;Juuso;Viinanen;;1991-3-30;Jyväskylä;FIN;Finland;;;0
 20611;-1;Kristian;Taskinen;;1978-9-2;Vantaa;UUS;Finland;;;0
 20612;-1;Aarne;Koivusaari;;1975-6-20;Oulu;NOS;Finland;;;0
 20613;-1;Veikko;Parviainen;;1988-9-28;Paimio;SOU;Finland;;;0
@@ -20719,7 +20719,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 20717;2693;Roman;Vladychko;;1991-11-13;Svicloch;GRO;Belarus;;;0
 20718;4877;Miraslaw;Kulchy;;1988-10-24;Gomel;GOM;Belarus;;;0
 20719;2694;Artsyom;Kuzmyanok;;1992-3-7;Novopolotsk;VIT;Belarus;;;0
-20720;2092;Raman;Yurchenka;;1992-8-29;Gomel;GOM;Belarus;;;0
+20720;3439;Raman;Yurchenka;;1992-8-29;Gomel;GOM;Belarus;;;0
 20721;2695;Yahor;Lisitsa;;1987-11-20;Orsha;VIT;Belarus;;;0
 20722;2696;Vyachaslaw;Yadeshka;;1972-7-18;Grodno;GRO;Belarus;;;0
 20723;2696;Syarhey;Harbunow;;1980-6-8;Soligorsk;MIN;Belarus;;;0
@@ -22803,7 +22803,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 22801;-1;Edgar;Bühler;;1972-12-9;Celle;LOW;Germany;;;0
 22802;2567;Pavel;Vasilyev;;1990-3-12;Chita;ZAB;Russia;;;0
 22803;-1;Yevgeny;Zhashkov;;1988-9-14;Kemerovo;KEM;Russia;;;0
-22804;1763;Roland;Zimmer;;1986-1-30;Bad Nauheim;HES;Germany;;;0
+22804;4657;Roland;Zimmer;;1986-1-30;Bad Nauheim;HES;Germany;;;0
 22805;-1;Holger;Lehner;;1983-12-30;Mülheim;NOR;Germany;;;0
 22806;3832;Kandrat;Khuzeyew;;1982-2-24;Gomel;GOM;Belarus;;;0
 22807;3832;Alyaksey;Kavalweski;;1990-6-12;Minsk;MIN;Belarus;;;0
@@ -22891,7 +22891,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 22889;3874;Jussi;Enqvist;;1989-12-7;Kempele;NOS;Finland;;;0
 22890;2641;Alexander;Huusko;;1989-4-17;Helsinki;UUS;Finland;;;0
 22891;-1;Henrik;Wikberg;;1978-3-14;Nurmijärvi;UUS;Finland;;;0
-22892;5039;Vesa;Kirjavainen;;1990-11-22;Kuusjoki;SOU;Finland;;;0
+22892;3189;Vesa;Kirjavainen;;1990-11-22;Kuusjoki;SOU;Finland;;;0
 22893;-1;Juha;Lindqvist;;1965-9-8;Ulvila;SAT;Finland;;;0
 22894;3314;Johannes;Julkunen;;1989-8-21;Mikkeli;SSA;Finland;;;0
 22895;-1;Atte;Tran;;1974-1-18;Kotka;KYM;Finland;;;0
@@ -23582,7 +23582,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 23580;4292;Georg;Schmidt;;1972-7-3;Sankt Veit;KäR;Austria;;;0
 23581;-1;Oliver;Schmidt;;1966-5-14;Vienna;WIE;Austria;;;1
 23582;4293;Clemens;Mandl;;1973-2-12;Vösendorf;NIE;Austria;;;0
-23583;2944;Thomas;Buchinger;;1989-12-23;Vienna;WIE;Austria;;;0
+23583;1763;Thomas;Buchinger;;1989-12-23;Vienna;WIE;Austria;;;0
 23584;4294;Hannes;Hummel;;1983-6-14;Vöcklabruck;OBE;Austria;;;0
 23585;4499;Patrick;Vogl;;1990-1-2;Frastanz;VOR;Austria;;;0
 23586;4295;Sebastian;Hagen;;1977-4-12;Berndorf;NIE;Austria;;;0
@@ -24063,7 +24063,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 24061;4530;Abdul-Latif;Mansoor;;1979-3-8;al-Wahah;AL-;Kuwait;;;0
 24062;698;Chwalislaw;Kusak;;1984-2-9;Krynica-Zdrój;MAL;Poland;;;0
 24063;4531;Augustyn;Wijatkowski;;1983-10-27;Golub-Dobrzyn;KUJ;Poland;;;0
-24064;391;Ward;Berry;;1990-6-24;Montgomery;IL;The United States;;;0
+24064;4069;Ward;Berry;;1990-6-24;Montgomery;IL;The United States;;;0
 24065;4532;Tom;Sutton;;1972-6-4;Winchester;IL;The United States;;;0
 24066;4533;Allen;Kelleher;;1971-2-3;Los Angeles;CA;The United States;;;0
 24067;4533;Dave;Teague;;1976-2-27;Los Angeles;CA;The United States;;;0
@@ -28307,7 +28307,7 @@ Yuldashev;;1982-4-30;Dasoguz;DAS;Turkmenistan;;;0
 28303;-1;Ilkka;Eskola;;1993-2-28;Tampere;PIR;Finland;;;0
 28304;2312;John;Björnfot;;1993-4-13;Stockholm;STO;Sweden;;;0
 28305;-1;Radostin;Tsvetkov;;1985-8-16;Sofia;SOF;Bulgaria;;;0
-28306;3672;Anthony;Cortese;;1994-1-12;Vaughan;ON;Canada;;;0
+28306;1990;Anthony;Cortese;;1994-1-12;Vaughan;ON;Canada;;;0
 28307;-1;Darrin;Degroot;;1986-1-1;Muswellbrook;NSW;Australia;;;0
 28308;-1;Zach;Pochiro;;1994-3-6;St. Louis;MO;The United States;;;0
 28309;-1;Carey;Price;;1987-8-16;Vancouver;BC;Canada;;;0
@@ -29670,7 +29670,7 @@ Yuldashev;;1982-4-30;Dasoguz;DAS;Turkmenistan;;;0
 29666;-1;Robert;Smtih;;1958-4-18;Stonewood;WV;The United States;;;1
 29667;-1;Viktor;Noyok;;1966-5-10;Lutsk;VOL;Ukraine;;;1
 29668;3913;Jess;Bard;;1972-10-17;Washington;DC;The United States;;;0
-29669;4560;Pete;O'Rorke;;1973-5-14;Fayetteville;NC;The United States;;;0
+29669;-1;Pete;O'Rorke;;1973-5-14;Fayetteville;NC;The United States;;;0
 29670;-1;Vyachaslaw;Lavrik;;1965-2-26;Bobruisk;MOG;Belarus;;;1
 29671;-1;Eberhard;Storch;;1973-9-3;Stuttgart;BAD;Germany;;;0
 29672;984;Will;Simmons;;1971-12-7;Silver Spring;MD;The United States;;;0
@@ -29863,7 +29863,7 @@ Yuldashev;;1982-4-30;Dasoguz;DAS;Turkmenistan;;;0
 29859;-1;Maksim;Izvolin;;1964-5-15;Tula;TUL;Russia;;;1
 29860;435;Timothy;Considine;;1977-7-7;Fargo;ND;The United States;;;0
 29861;2310;Yao;Yunfeng;;1976-7-20;Songhua;GUA;China;;;0
-29862;4839;Dallas;Payne;;1980-4-14;Brooklyn;NY;The United States;;;0
+29862;-1;Dallas;Payne;;1980-4-14;Brooklyn;NY;The United States;;;0
 29863;-1;Mirza;Erden;;1979-10-13;Marchtrenk;OBE;Austria;;;0
 29864;-1;Bogdan;Tsaran;;1955-9-25;Nalchik;KAB;Russia;;;1
 29865;-1;Thatcher;Schoonmaker;;1957-2-23;Birmingham;AL;The United States;;;1
@@ -29996,7 +29996,7 @@ Yuldashev;;1982-4-30;Dasoguz;DAS;Turkmenistan;;;0
 29992;-1;Ivan;Glazkov;;1970-1-4;Novosibirsk;NOV;Russia;;;1
 29993;-1;Dmitry;Dakhov;;1958-11-2;Orenburg;ORE;Russia;;;1
 29994;965;Dante;Irving;;1975-7-17;Altona;MB;Canada;;;0
-29995;2704;Bill;Adkins;;1979-11-9;Ripon;WI;The United States;;;0
+29995;3465;Bill;Adkins;;1979-11-9;Ripon;WI;The United States;;;0
 29996;-1;Ralph;Cartmell;;1959-5-1;Columbus;OH;The United States;;;1
 29997;-1;Dmitry;Glinchuk;;1968-11-15;Komsomolsk-na-Amure;KHA;Russia;;;1
 29998;966;Romain;Laurent;;1971-11-15;Paris;ÎLE;France;;;0
@@ -32179,7 +32179,7 @@ Bobiyev;;1969-12-15;Moscow;MOS;Russia;;;0
 32174;-1;Dave;van de Wiel;;1966-5-24;Alberton;GAU;South Africa;;;1
 32175;3905;Aleksandr;Smiryagin;;1984-11-10;Gzhatsk;SMO;Russia;;;0
 32176;-1;Howard;Lewis;;1962-8-13;St. Petersburg;FL;The United States;;;1
-32177;4560;Bill;Sweeney;;1984-1-15;Hazel Dell North;WA;The United States;;;0
+32177;-1;Bill;Sweeney;;1984-1-15;Hazel Dell North;WA;The United States;;;0
 32178;-1;Fred;Stafford;;1975-2-11;San Antonio;TX;The United States;;;0
 32179;956;Reynante;Vinegas;;1984-8-4;Iligan;CEN;Philippines;;;0
 32180;-1;Tim;Mann;;1968-7-23;Winchester;CA;The United States;;;1
@@ -32912,7 +32912,7 @@ Bobiyev;;1969-12-15;Moscow;MOS;Russia;;;0
 32907;399;John;Davidson;;1983-10-7;Palm River-Clair Mel;FL;The United States;;;0
 32908;-1;Richard;Howard;;1964-2-21;Perry Hall;MD;The United States;;;1
 32909;121;Arseny;Machinsky;;1976-4-3;Parfino;NOV;Russia;;;0
-32910;3222;Justin;Aitcheson;;1974-9-26;Marblehead;MA;The United States;;;0
+32910;2043;Justin;Aitcheson;;1974-9-26;Marblehead;MA;The United States;;;0
 32911;-1;George;Eggleston;;1959-12-14;Lake Magdalene;FL;The United States;;;1
 32912;-1;John;Louviere;;1958-3-21;Portland;OR;The United States;;;1
 32913;-1;Jason;Heffner;;1964-4-10;Galen;NY;The United States;;;1
@@ -34172,7 +34172,7 @@ Bobiyev;;1969-12-15;Moscow;MOS;Russia;;;0
 34167;-1;Yuriy;Kolosov;;1978-6-28;Velykodolynske;ODE;Ukraine;;;0
 34168;1585;Artyom;Azhiganov;;1983-4-14;Moscow;MOS;Russia;;;0
 34169;-1;Bryan;Wall;;1968-9-3;Minot;ND;The United States;;;1
-34170;4560;Radim;Zeman;;1987-9-9;Netolice;JIH;Czech Republic;;;0
+34170;-1;Radim;Zeman;;1987-9-9;Netolice;JIH;Czech Republic;;;0
 34171;-1;Harry;MacDonald;;1983-5-17;Aventura;FL;The United States;;;0
 34172;-1;Wayne;Kirk;;1958-1-16;Philadelphia;PA;The United States;;;1
 34173;-1;Jani;Hautamäki;;1985-8-31;Oulu;NOS;Finland;;;0
@@ -34391,7 +34391,7 @@ Bobiyev;;1969-12-15;Moscow;MOS;Russia;;;0
 34386;-1;Syarhey;Harbachow;;1976-11-11;Tolochin;VIT;Belarus;;;0
 34387;-1;Andrey;Tsyaplow;;1976-5-30;Ostrovets;GRO;Belarus;;;1
 34388;-1;Arman;Bekken;;1984-8-23;Fredrikstad;ØST;Norway;;;0
-34389;706;Herman;Bergseng;;1985-6-6;Indre Arna;HOR;Norway;;;0
+34389;-1;Herman;Bergseng;;1985-6-6;Indre Arna;HOR;Norway;;;0
 34390;-1;David;Stoudek;;1962-3-13;Straz pod Ralskem;LIB;Czech Republic;;;1
 34391;-1;David;Pelikan;;1988-5-21;Prague;PRA;Czech Republic;;;0
 34392;-1;Ales;Lenc;;1961-6-26;Brno;JHM;Czech Republic;;;1
@@ -34426,7 +34426,7 @@ Bobiyev;;1969-12-15;Moscow;MOS;Russia;;;0
 34421;-1;Artsyom;Karneyenka;;1975-2-1;Gomel;GOM;Belarus;;;1
 34422;-1;Fabian;Steiner;;1971-12-13;Vienna;WIE;Austria;;;1
 34423;-1;Christoph;Wieser;;1988-4-10;Vienna;WIE;Austria;;;0
-34424;482;David;Schaffer;;1979-1-11;Vienna;WIE;Austria;;;0
+34424;-1;David;Schaffer;;1979-1-11;Vienna;WIE;Austria;;;0
 34425;481;Stefan;Hauer;;1978-1-31;Vienna;WIE;Austria;;;0
 34426;-1;Dominik;Burgstaller;;1960-7-19;Ansfelden;OBE;Austria;;;1
 34427;-1;Stefan;Winkler;;1982-3-3;Deutsch-Wagram;NIE;Austria;;;0
@@ -34619,7 +34619,7 @@ Shodiyev;;1988-11-13;Türkmenabat;LEB;Turkmenistan;;;0
 34613;-1;Bill;Willhite;;1987-6-18;Newark;NJ;The United States;;;0
 34614;-1;Ben;Anderson;;1982-4-14;West Haven-Sylvan;OR;The United States;;;0
 34615;-1;Gary;Davies;;1964-5-10;Mauldin;SC;The United States;;;1
-34616;78;Craig;Fogden;;1976-2-22;Chicago;IL;The United States;;;0
+34616;-1;Craig;Fogden;;1976-2-22;Chicago;IL;The United States;;;0
 34617;-1;Héctor;Canez;;1970-12-22;McNair;VA;The United States;;;1
 34618;-1;Chris;Fulerton;;1986-2-5;Aurora;CO;The United States;;;0
 34619;-1;Sam;Koller;;1961-6-3;Rowlett;TX;The United States;;;1
@@ -36466,7 +36466,7 @@ Shodiyev;;1988-11-13;Türkmenabat;LEB;Turkmenistan;;;0
 36460;-1;Melvin;Hooper;;1968-4-30;Brielle;NJ;The United States;;;1
 36461;994;Igor;Gaydushenko;;1984-5-7;Ozyorsk;CHE;Russia;;;0
 36462;-1;Rick;Tate;;1988-6-24;Beulah Valley;CO;The United States;;;0
-36463;2043;Linus;Ahlman;;1976-12-2;Göteborg;VäS;Sweden;;;0
+36463;2704;Linus;Ahlman;;1976-12-2;Göteborg;VäS;Sweden;;;0
 36464;775;Tim;Chism;;1980-9-10;Norfolk;VA;The United States;;;0
 36465;-1;Don;Fulmer;;1970-11-2;Clearwater;FL;The United States;;;1
 36466;-1;Kirill;Romanov;;1984-3-9;Shakhty;ROS;Russia;;;0
@@ -37550,7 +37550,7 @@ Shodiyev;;1988-11-13;Türkmenabat;LEB;Turkmenistan;;;0
 37544;-1;Tomás;Svoboda;;1968-9-29;Mikulov;JHM;Czech Republic;;;1
 37545;-1;Jim;Shiflett;;1970-6-8;Antioch;CA;The United States;;;1
 37546;-1;Mathis;Landry;;1976-7-8;Montreal;QC;Canada;;;0
-37547;-1;Mathys;Olivier;;1987-12-6;Sainte-Thérèse;QC;Canada;;;0
+37547;3798;Mathys;Olivier;;1987-12-6;Sainte-Thérèse;QC;Canada;;;0
 37548;-1;Pat;Howorko;;1962-7-26;Kitchener;ON;Canada;;;1
 37549;-1;Ryan;Blaak;;1973-3-26;Toronto;ON;Canada;;;1
 37550;-1;Jeremy;Pace;;1985-7-19;Okotoks;AB;Canada;;;0
@@ -38368,7 +38368,7 @@ Shodiyev;;1988-11-13;Türkmenabat;LEB;Turkmenistan;;;0
 38362;-1;Albert;Franco;;1983-2-4;Huntington Beach;CA;The United States;;;0
 38363;-1;Willie;Scheer;;1975-11-11;Kenosha;WI;The United States;;;0
 38364;626;Yaroslav;Kozlov;;1980-5-1;Novouralsk;SVE;Russia;;;0
-38365;2130;Mehmet Can;Acar;;1982-8-26;Izmir;IZM;Turkey;;;0
+38365;3163;Mehmet Can;Acar;;1982-8-26;Izmir;IZM;Turkey;;;0
 38366;760;Denis;Mitanov;;1976-12-25;Syktyvkar;KOM;Russia;;;0
 38367;-1;Mirlan;Tulyakbay;;1970-2-10;Zhongshan;GUA;China;;;1
 38368;-1;Mika;van Rijn;;1964-7-24;Menaldumadeel;FRI;The Netherlands;;;1
@@ -40618,7 +40618,7 @@ Talipov;;1964-7-10;Asgabat;ASG;Turkmenistan;;;1
 40611;625;Stephan;Baumann;;1992-1-27;Norderstedt;SCH;Germany;;;0
 40612;-1;Torben;Thelen;;1963-4-27;Gremsdorf;BAV;Germany;;;1
 40613;-1;Gero;Schubert;;1964-10-8;Gelsenkirchen;NOR;Germany;;;1
-40614;1453;Graeme;Stendall;;1984-7-23;London;ENG;England;;;0
+40614;-1;Graeme;Stendall;;1984-7-23;London;ENG;England;;;0
 40615;-1;Bryan;Ong;;1975-10-15;Honolulu;HI;The United States;;;1
 40616;75;Bill;Abrams;;1990-5-6;Fresno;CA;The United States;;;0
 40617;75;Dave;Riddlebarger;;1991-10-25;Babbie;AL;The United States;;;0
@@ -40734,7 +40734,7 @@ Talipov;;1964-7-10;Asgabat;ASG;Turkmenistan;;;1
 40727;-1;Christopher;Schneider;;1973-7-22;Schwyz;SZ;Switzerland;;;1
 40728;-1;Nicolas;Maire;;1965-6-6;Echallens;VD;Switzerland;;;1
 40729;-1;Timo;Moser;;1968-1-5;Schwyz;SZ;Switzerland;;;1
-40730;78;Jeff;Mertz;;1985-11-1;North Babylon;NY;The United States;;;0
+40730;-1;Jeff;Mertz;;1985-11-1;North Babylon;NY;The United States;;;0
 40731;412;Kraig;Kotyk;;1987-3-24;Ottawa;ON;Canada;;;0
 40732;-1;Colton;Gosling;;1964-2-21;Brantford;ON;Canada;;;1
 40733;-1;Derek;Driscoll;;1979-7-27;Bashaw;AB;Canada;;;0
@@ -41882,7 +41882,7 @@ Talipov;;1964-7-10;Asgabat;ASG;Turkmenistan;;;1
 41875;2488;Pierre;Couture;;1980-6-12;Mimet;PRO;France;;;0
 41876;-1;Armando;Gonzales;;1992-1-14;Los Angeles;CA;The United States;;;0
 41877;-1;Roman;Rodionov;;1989-1-22;Vladivostok;PRI;Russia;;;0
-41878;4839;Chip;Mullins;;1992-12-30;Yuba City;CA;The United States;;;0
+41878;-1;Chip;Mullins;;1992-12-30;Yuba City;CA;The United States;;;0
 41879;-1;Jeremiah;Stone;;1963-10-4;West Odessa;TX;The United States;;;1
 41880;-1;Yakov;Zhirnikov;;1967-1-30;Kungur;PER;Russia;;;1
 41881;-1;John;Lane;;1988-3-27;Shepherdsville;KY;The United States;;;0
@@ -42080,7 +42080,7 @@ Talipov;;1964-7-10;Asgabat;ASG;Turkmenistan;;;1
 42073;-1;Aleksey;Yevchenko;;1980-1-24;Nalchik;KAB;Russia;;;0
 42074;-1;Mikko;Pirskanen;;1991-10-2;Vantaa;UUS;Finland;;;0
 42075;-1;Keith;Auvenshine;;1971-4-30;Baldwin;PA;The United States;;;1
-42076;149;Mike;Duncan;;1989-10-9;Reno;NV;The United States;;;0
+42076;-1;Mike;Duncan;;1989-10-9;Reno;NV;The United States;;;0
 42077;-1;Chris;Work;;1990-6-10;Northbridge;MA;The United States;;;0
 42078;-1;Bob;Heilmann;;1984-1-3;Murrieta;CA;The United States;;;0
 42079;-1;Zou;Wei;;1982-9-4;Changchun;JIL;China;;;0
@@ -42160,7 +42160,7 @@ Talipov;;1964-7-10;Asgabat;ASG;Turkmenistan;;;1
 42153;-1;Tom;Blood;;1980-10-18;Memphis;TN;The United States;;;0
 42154;1925;Dmitry;Malinovsky;;1978-2-19;Zhezkazgan;KAR;Kazakhstan;;;0
 42155;2158;Mats;Bäckström;;1980-4-30;New York;NY;The United States;;;0
-42156;3721;Artyom;Morozov;;1979-4-26;Kaspiyskiy;KAL;Russia;;;0
+42156;-1;Artyom;Morozov;;1979-4-26;Kaspiyskiy;KAL;Russia;;;0
 42157;-1;Wang;Zemin;;1990-9-14;Tianjin;TIA;China;;;0
 42158;-1;Davit;Vasilyan;;1974-11-15;Siva;PER;Russia;;;0
 42159;-1;Logan;Scott;;1988-4-27;Mission;BC;Canada;;;0
@@ -42194,7 +42194,7 @@ Talipov;;1964-7-10;Asgabat;ASG;Turkmenistan;;;1
 42187;-1;Kenny;Evans;;1984-5-21;Fountain Hills;AZ;The United States;;;0
 42188;-1;Steven;Borrett;;1967-5-19;Earl Shilton;ENG;England;;;1
 42189;-1;Howard;Rivers;;1992-11-22;Bella Vista;AR;The United States;;;0
-42190;-1;Yevgeny;Ilyin;;1992-7-9;Samara;SAM;Russia;;;0
+42190;3721;Yevgeny;Ilyin;;1992-7-9;Samara;SAM;Russia;;;0
 42191;4245;Bill;Whitmer;;1976-5-19;Jefferson;VA;The United States;;;0
 42192;3913;Nikita;Malayev;;1990-1-17;Volkhov;LEN;Russia;;;0
 42193;4246;Tim;Woodland;;1979-5-12;Florence;AL;The United States;;;0
@@ -42594,7 +42594,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 42586;-1;Davide;Campanelli;;1977-8-12;Quinte West;ON;Canada;;;0
 42587;-1;Lucas;Daigneault;;1970-6-2;Longueuil;QC;Canada;;;1
 42588;-1;Matt;Holden;;1967-9-10;Sydney;NS;Canada;;;1
-42589;149;Michael;Woodruff;;1991-8-27;Las Vegas;NV;The United States;;;0
+42589;-1;Michael;Woodruff;;1991-8-27;Las Vegas;NV;The United States;;;0
 42590;-1;Dustin;Lillies;;1965-7-26;Regina;SK;Canada;;;1
 42591;-1;Olivier;Millette;;1988-9-17;Châteauguay;QC;Canada;;;0
 42592;-1;Laurent;Bacon;;1973-11-23;Saint-Eustache;QC;Canada;;;1
@@ -46145,7 +46145,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 46137;-1;Nick;Hairston;;1973-9-18;Chicago;IL;The United States;;;0
 46138;144;Michaël;Moreau;;1973-9-22;Montreal;QC;Canada;;;0
 46139;-1;James;Burrows;;1977-7-25;Ellensburg;WA;The United States;;;0
-46140;115;Jack;Moore;;1992-4-20;Ogden;UT;The United States;;;0
+46140;210;Jack;Moore;;1992-4-20;Ogden;UT;The United States;;;0
 46141;-1;Andrey;Mirsky;;1975-6-1;Moscow;MOS;Russia;;;0
 46142;-1;Adam;Walsh;;1973-2-28;Broadview Heights;OH;The United States;;;0
 46143;578;Juho;Laurell;;1977-12-3;Helsinki;UUS;Finland;;;0
@@ -46340,7 +46340,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 46332;-1;Tim;McFarland;;1980-3-9;Houston;TX;The United States;;;0
 46333;55;Elroy;Hebert;;1973-10-26;Memphis;TN;The United States;;;0
 46334;-1;Dave;Pulver;;1979-4-24;Surf;NC;The United States;;;0
-46335;91;Brayden;McPherson;;1990-5-20;Ottawa;ON;Canada;;;0
+46335;115;Brayden;McPherson;;1990-5-20;Ottawa;ON;Canada;;;0
 46336;-1;Paolo;Bonacci;;1994-3-4;Messina;SIC;Italy;;;0
 46337;-1;Yushiro;Matsuoka;;1971-9-30;Sanuki;KAG;Japan;;;0
 46338;-1;Brooks;Sherbino;;1984-6-20;Markham;ON;Canada;;;0
@@ -46381,7 +46381,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 46373;-1;Aleksandr;Yanushko;;1965-3-20;Severodvinsk;ARK;Russia;;;1
 46374;-1;Aleksandr;Zazorin;;1978-3-25;Stroitel;TAM;Russia;;;0
 46375;-1;Wang;Yongbang;;1993-8-17;Shanghai;SHA;China;;;0
-46376;482;Julian;Ostermann;;1988-1-2;Judenburg;STE;Austria;;;0
+46376;-1;Julian;Ostermann;;1988-1-2;Judenburg;STE;Austria;;;0
 46377;-1;Steve;Aris;;1973-9-20;Arcata;CA;The United States;;;0
 46378;-1;Zhang;Xianmin;;1968-2-8;Shanghai;SHA;China;;;1
 46379;-1;Maxx;Harper;;1969-3-13;Port Coquitlam;BC;Canada;;;1
@@ -46628,7 +46628,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 46620;443;Andrew;Dunin;;1988-10-14;Labrador City;NL;Canada;;;0
 46621;85;Will;Mason;;1981-3-15;Albuquerque;NM;The United States;;;0
 46622;184;Elliott;Morse;;1986-11-17;El Paso;TX;The United States;;;0
-46623;210;Allen;McQuaire;;1989-2-8;Temecula;CA;The United States;;;0
+46623;149;Allen;McQuaire;;1989-2-8;Temecula;CA;The United States;;;0
 46624;-1;Tom;Vint;;1969-1-30;New Milford;CT;The United States;;;1
 46625;4840;Matsudaira;Shimizu;;1979-12-2;Kitakami;IWA;Japan;;;0
 46626;-1;Cooper;Monck;;1986-11-21;Melbourne;VIC;Australia;;;0
@@ -46766,7 +46766,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 46758;-1;Roman;Rusishvili;;1983-5-27;Nukus;KOR;Uzbekistan;;;0
 46759;-1;Imangali;Kunafin;;1995-5-22;Semey;SIG;Kazakhstan;;;0
 46760;2199;Vitaly;Mazayev;;1981-12-16;Shakhty;ROS;Russia;;;0
-46761;3721;Andrey;Yerlykov;;1986-7-16;Cheremkhovo;IRK;Russia;;;0
+46761;-1;Andrey;Yerlykov;;1986-7-16;Cheremkhovo;IRK;Russia;;;0
 46762;-1;Ivan;Shitikov;;1993-1-16;Rostov-na-Donu;ROS;Russia;;;0
 46763;-1;Yegor;Afendulov;;1969-8-19;Perm;PER;Russia;;;1
 46764;-1;Yevgeny;Sascheikov;;1970-6-21;Moscow;MOS;Russia;;;1
@@ -47939,7 +47939,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 47931;1839;Niklas;Fiedler;;1978-2-4;Göttingen;LOW;Germany;;;0
 47932;-1;Cole;Kraus;;1973-10-16;Brooklyn;NY;The United States;;;1
 47933;-1;Dan;Saint;;1973-2-21;Norfolk;VA;The United States;;;0
-47934;3721;Aleksandr;Nevolin;;1992-6-18;Leninsk-Kuznetskiy;KEM;Russia;;;0
+47934;-1;Aleksandr;Nevolin;;1992-6-18;Leninsk-Kuznetskiy;KEM;Russia;;;0
 47935;-1;Alfons;Kuchta;;1977-11-4;Ustka;POM;Poland;;;0
 47936;742;Dmitry;Rachek;;1981-8-20;Astana;AKM;Kazakhstan;;;0
 47937;-1;Xue;Chongfeng;;1993-6-20;Daan;JIL;China;;;0
@@ -48282,7 +48282,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 48274;120;John;MacKinney;;1972-12-19;Little Falls;NJ;The United States;;;0
 48275;-1;Ronald;Bowles;;1988-7-18;Marietta;GA;The United States;;;0
 48276;-1;Khorloogiin;Ankhbayar;;1980-3-3;Yakeshi;INN;China;;;0
-48277;847;Andrin;Wyler;;1975-6-17;Zurich;ZH;Switzerland;;;0
+48277;-1;Andrin;Wyler;;1975-6-17;Zurich;ZH;Switzerland;;;0
 48278;-1;Igor;Pletnikov;;1981-8-30;Xasun-Yurt;DAG;Russia;;;0
 48279;843;Tim;Scheurer;;1992-7-28;Uster;ZH;Switzerland;;;0
 48280;-1;Kirill;Naydensky;;1970-7-30;Belovo;KEM;Russia;;;0
@@ -48665,7 +48665,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 48657;3721;Denis;Tsaryov;;1976-8-23;Moscow;MOS;Russia;;;0
 48658;-1;Kamil;Gareyev;;1992-4-17;Gubkinskiy;YAM;Russia;;;0
 48659;-1;Daniil;Vishlenkov;;1972-3-6;Kondopoga;KAR;Russia;;;1
-48660;3721;Yegor;Pafov;;1976-12-17;Ufa;BAS;Russia;;;0
+48660;-1;Yegor;Pafov;;1976-12-17;Ufa;BAS;Russia;;;0
 48661;-1;Corey;Jensen;;1984-7-27;Penticton;BC;Canada;;;0
 48662;96;Marc-Antoine;Thibault;;1984-2-9;Rivière-du-Loup;QC;Canada;;;0
 48663;-1;Dan;DeHart;;1982-9-1;Glenvar Heights;FL;The United States;;;0
@@ -48776,7 +48776,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 48768;-1;Ondrej;Ertl;;1970-8-1;Most;UST;Czech Republic;;;0
 48769;-1;Simon;Knapek;;1981-9-29;Prague;PRA;Czech Republic;;;0
 48770;-1;Vladimir;Vitovec;;1974-11-23;Zlutice;KAR;Czech Republic;;;0
-48771;4560;Zbynek;Plhak;;1981-8-10;Havírov;MOR;Czech Republic;;;0
+48771;-1;Zbynek;Plhak;;1981-8-10;Havírov;MOR;Czech Republic;;;0
 48772;89;Michael;Foulkes;;1989-6-5;Colonia;NJ;The United States;;;0
 48773;-1;Jesse;Turner;;1970-11-17;Indianapolis;IN;The United States;;;1
 48774;-1;Raphaël;Lapointe;;1969-1-30;Lévis;QC;Canada;;;1
@@ -49021,7 +49021,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 49013;-1;Scott;McElveen;;1968-12-9;Chatham-Kent;ON;Canada;;;1
 49014;-1;Nathaniel;Singleton;;1974-7-13;Paterson;NJ;The United States;;;1
 49015;-1;Kent;Bramlett;;1989-1-21;Buffalo;NY;The United States;;;0
-49016;78;Logan;McGee;;1988-11-26;Edmonds;WA;The United States;;;0
+49016;-1;Logan;McGee;;1988-11-26;Edmonds;WA;The United States;;;0
 49017;123;Jonathan;Marsh;;1988-9-25;Austin;TX;The United States;;;0
 49018;-1;Viktor;Braun;;2000-7-11;Chemnitz;SAX;Germany;;;0
 49019;-1;Kodai;Matsumoto;?? ??;1996-11-29;Ushiku;IBA;Japan;;;0
@@ -50352,7 +50352,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 50344;-1;Aubrey;Branum;;1972-4-2;Coventry;NY;The United States;;;0
 50345;-1;Dan;Pierce;;1981-3-31;Omaha;NE;The United States;;;0
 50346;-1;Gianni;Sinatra;;1989-5-6;Pavia;LOM;Italy;;;0
-50347;116;Jaryd;Durocher;;1990-5-16;Sydney Mines;NS;Canada;;;0
+50347;-1;Jaryd;Durocher;;1990-5-16;Sydney Mines;NS;Canada;;;0
 50348;-1;Xie;Kangsheng;;1986-8-17;Shenyang;LIA;China;;;0
 50349;-1;Huang;Kunzhuo;;1981-10-12;Youhao;HEI;China;;;0
 50350;-1;Maksim;Zhmotov;;1985-8-29;Vladivostok;PRI;Russia;;;0
@@ -50643,11 +50643,11 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 50635;-1;Terry;Maggs;;1969-10-9;Redwood City;CA;The United States;;;0
 50636;566;Arttu;Perttula;;1991-7-29;Leppävirta;NSA;Finland;;;0
 50637;-1;Wayne;Gedge;;1989-1-31;Memphis;TN;The United States;;;0
-50638;566;Petteri;Haapaniemi;;1992-9-25;Pieksämäen maalaiskunta;SSA;Finland;;;0
+50638;-1;Petteri;Haapaniemi;;1992-9-25;Pieksämäen maalaiskunta;SSA;Finland;;;0
 50639;-1;Fan;Cheng;;1981-7-13;Jinan;SHA;China;;;0
 50640;566;Oliver;Laurila;;1994-8-28;Mynämäki;SOU;Finland;;;0
 50641;-1;Tim;Wilkerson;;1993-6-14;Indianola;IA;The United States;;;0
-50642;566;Mika-Petri;Kytölä;;1992-10-23;Salo;SOU;Finland;;;0
+50642;-1;Mika-Petri;Kytölä;;1992-10-23;Salo;SOU;Finland;;;0
 50643;-1;Pael;Mendoza;;1991-1-19;Olongapo;CEN;Philippines;;;0
 50644;569;Petteri;Halonen;;1991-12-8;Helsinki;UUS;Finland;;;0
 50645;-1;René;Riedl;;1996-9-17;Klagenfurt;KäR;Austria;;;0
@@ -51084,7 +51084,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 51076;460;Thomas;Booth;;1981-9-1;Sydney;NSW;Australia;;;0
 51077;426;Ryan;Shepley;;1972-11-26;Vancouver;BC;Canada;;;0
 51078;411;Dominic;Desgagné;;1981-2-21;Mascouche;QC;Canada;;;0
-51079;3798;Jessy;Gauthier;;1995-4-21;Val-d'Or;QC;Canada;;;0
+51079;91;Jessy;Gauthier;;1995-4-21;Val-d'Or;QC;Canada;;;0
 51080;422;Dustin;Rube;;1971-8-15;La Ronge;SK;Canada;;;0
 51081;-1;Dean;Danberg;;1971-12-20;New Glasgow;NS;Canada;;;0
 51082;422;Maxime;Lapointe;;1985-11-13;Kitchener;ON;Canada;;;0
@@ -51307,7 +51307,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 51299;-1;Jonathan;Labelle;;1968-1-1;Montreal;QC;Canada;;;1
 51300;-1;Ambrose;O'Haverty;;1978-1-24;Waukegan;IL;The United States;;;1
 51301;-1;Christophe-François;Descôteaux;;1979-8-24;Lévis;QC;Canada;;;0
-51302;-1;Brad;Browder;;1989-1-26;Dayton;OH;The United States;;;0
+51302;4839;Brad;Browder;;1989-1-26;Dayton;OH;The United States;;;0
 51303;100;Ryan;Whiteduck;;1974-12-12;Barrie;ON;Canada;;;0
 51304;106;Hal;Angeli;;1975-2-26;Battle Ground;IN;The United States;;;0
 51305;411;Maxime;Faucher;;1971-1-31;Sainte-Catherine;QC;Canada;;;0
@@ -51577,7 +51577,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 51569;-1;Shi;Congping;;1971-12-8;Hefei;ANH;China;;;0
 51570;-1;Aleksey;Lelyavsky;;1991-1-3;Islamey;KAB;Russia;;;0
 51571;-1;Sergey;Mastryukov;;1974-3-17;Novonikolayevskiy;VOL;Russia;;;0
-51572;3465;Sotaro;Abe;;1982-3-3;Takasaki;GUN;Japan;;;0
+51572;3672;Sotaro;Abe;;1982-3-3;Takasaki;GUN;Japan;;;0
 51573;-1;Mark;Ralin;;1991-5-3;Mikhaylovsk;STA;Russia;;;0
 51574;-1;Wilton;McGuire;;1969-4-22;Lake Village;AR;The United States;;;1
 51575;-1;Dominik;Hubalek;;1983-11-28;Brezova;KAR;Czech Republic;;;0
@@ -52183,7 +52183,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 52175;-1;Artyom;Malinovsky;;1971-2-25;St. Petersburg;SAI;Russia;;;0
 52176;-1;Clifton;Schoenfeld;;1991-12-26;Philadelphia;PA;The United States;;;0
 52177;-1;Fred;Pochin;;1981-10-23;Burlington;VT;The United States;;;0
-52178;3163;Igor;Akhlibininsky;;1979-4-14;Maryanovka;OMS;Russia;;;0
+52178;3222;Igor;Akhlibininsky;;1979-4-14;Maryanovka;OMS;Russia;;;0
 52179;-1;Oleh;Shpak;;1977-1-18;Brody;LVI;Ukraine;;;0
 52180;-1;Tokimune;Nakada;;1989-11-24;Tokyo;TOK;Japan;;;0
 52181;-1;Dave;Doner;;1987-7-16;Brooklyn;NY;The United States;;;0
@@ -52564,7 +52564,7 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 52556;-1;Liu;Zichen;;1972-9-25;Changzhi;SHA;China;;;0
 52557;-1;Allen;Hawkins;;1969-2-27;Providence;RI;The United States;;;1
 52558;-1;Andrey;Misianevich;;1971-4-22;Romanovka;LEN;Russia;;;0
-52559;-1;David;Albrecht;;1977-7-8;Sankt Margrethen;SG;Switzerland;;;0
+52559;2130;David;Albrecht;;1977-7-8;Sankt Margrethen;SG;Switzerland;;;0
 52560;-1;Andrey;Takushimov;;1980-12-24;Kovrov;VLA;Russia;;;0
 52561;-1;Torgny;Oksman;;1997-3-6;Askola;EAS;Finland;;;0
 52562;481;Wolfgang;Kern;;1987-2-5;Vienna;WIE;Austria;;;0
@@ -53282,3 +53282,44 @@ Davlatov;;1977-5-27;Dasoguz;DAS;Turkmenistan;;;1
 53274;-1;Michal;Hrodek;;1996-2-14;Chocen;PAR;Czech Republic;;;0
 53275;1472;Petr;Koller;;1982-11-27;Opava;MOR;Czech Republic;;;0
 53276;1472;Lukas;Malinovsky;;1976-10-11;Ceské Budejovice;JIH;Czech Republic;;;0
+53277;3721;Alexei;Makaev;;1980-7-30;Aktash;SAM;Uzbekistan;;;0
+53278;-1;Viktor;Tropin;;1968-5-18;Kirov;KIR;Russia;;;0
+53279;-1;Nikita;Filinov;;1969-6-29;Kazan;TAT;Russia;;;0
+53280;-1;Daniil;Mravinsky;;1979-2-6;Lipetsk;LIP;Russia;;;0
+53281;3721;Mikhail;Ritikov;;1969-4-30;Marks;SAR;Russia;;;0
+53282;3721;Kirill;Yeliseyev;;1968-12-18;Zaterechnyy;STA;Russia;;;0
+53283;-1;Jimmy;Savikko;;1985-3-22;Helsinki;UUS;Finland;;;0
+53284;-1;Lauri;Alakiuttu;;1987-1-1;Valkeakoski;PIR;Finland;;;0
+53285;566;Oskari;Ojala;;1990-4-28;Kemijärvi;LAP;Finland;;;0
+53286;566;Tuukka;Hautamäki;;1991-10-6;Mikkeli;SSA;Finland;;;0
+53287;-1;Kristian;Anttalainen;;1973-9-20;Orimattila;PAH;Finland;;;0
+53288;-1;Hannu;Larsson;;1970-2-24;Pälkäne;PIR;Finland;;;0
+53289;-1;Henri;Toivonen;;1984-3-6;Luvia;SAT;Finland;;;0
+53290;-1;Aku;Hakkarainen;;1979-12-28;Hankasalmi;FIN;Finland;;;0
+53291;566;Jouni;Turtiainen;;1996-8-24;Hämeenlinna;KAN;Finland;;;0
+53292;-1;Jordyn;Dubeski;;1968-3-6;Burk's Falls;ON;Canada;;;0
+53293;116;Tony;Green;;1978-3-9;Collingwood;ON;Canada;;;0
+53294;-1;Anthoni;Côté;;1972-4-4;Montreal;QC;Canada;;;0
+53295;116;Josh;Bland;;1992-3-24;Arnold;MD;The United States;;;0
+53296;-1;Matt;Beckett;;1983-11-23;Saint-Augustin-de-Desmaures;QC;Canada;;;0
+53297;-1;Alex;Marcetta;;1989-8-22;Guelph;ON;Canada;;;0
+53298;116;Marty;Cope;;1990-11-12;Hiawatha;IA;The United States;;;0
+53299;847;Matteo;Ayer;;1982-6-25;Lancy;GE;Switzerland;;;0
+53300;-1;Richard;Wagner;;1973-11-21;Traiskirchen;NIE;Austria;;;0
+53301;-1;Patrick;Fink;;1990-11-29;Vienna;WIE;Austria;;;0
+53302;482;Kurt;Köhler;;1996-10-17;Graz;STE;Austria;;;0
+53303;482;Lion;Hummer;;1986-2-7;Sankt Pölten;NIE;Austria;;;0
+53304;1453;Kane;Hockley;;1976-11-9;Worthing;ENG;England;;;0
+53305;1453;Bill;Wickers;;1968-2-1;Keighley;ENG;England;;;0
+53306;4839;Jerry;Yelverton;;1981-7-30;Sandwich;MA;The United States;;;0
+53307;149;Chris;Boudreaux;;1981-5-18;Lexington;KY;The United States;;;0
+53308;149;Britt;Scheetz;;1978-12-17;Oakland;TN;The United States;;;0
+53309;4560;Ondrej;Sejbl;;1993-3-29;Plzen;PLZ;Czech Republic;;;0
+53310;4560;Tomás;Grunt;;1995-1-30;Mosty u Jablunkova;MOR;Czech Republic;;;0
+53311;78;Murray;Lacy;;1970-4-8;Kerman;CA;The United States;;;0
+53312;-1;Jacob;Peer;;1987-5-20;New York;NY;The United States;;;0
+53313;78;Phil;Dailey;;1998-4-15;Grand Rapids;MI;The United States;;;0
+53314;78;Joe;Rice;;1986-4-23;Fort Wayne;IN;The United States;;;0
+53315;78;Curt;Pearson;;1993-9-11;Glencoe;IL;The United States;;;0
+53316;706;Georg;Gundersen;;1969-8-30;Orkanger-Fannrem;SøR;Norway;;;0
+53317;706;Alan;Ekerhovd;;1990-11-30;Moss;ØST;Norway;;;0
